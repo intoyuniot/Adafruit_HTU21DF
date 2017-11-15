@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+Adafruit_HTU21DF    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+readTemperature KEYWORD2
+readHumidity  KEYWORD2
+reset  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+HTU21DF_I2CADDR   LITERAL1
+HTU21DF_READTEMPDHT22   LITERAL1
+HTU21DF_READHUM DHT21   LITERAL1
+HTU21DF_WRITEREGAM2301  LITERAL1
+HTU21DF_READREG AM2302  LITERAL1
+HTU21DF_RESET  LITERAL1
